@@ -21,4 +21,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=cs">
     <img src="https://skillicons.dev/icons?i=cs" height="100" alt="csharp logo" style="margin: 0 30px;">
   </a>
+
+  <a target="_blank" rel="noopener noreferrer" href="https://tweaked.cc/pack-26318f36.png">
+    <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo" style="margin: 0 30px;">
+  </a>
 </div>
