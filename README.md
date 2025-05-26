@@ -4,6 +4,7 @@
 </figure>
 <dev>
   <h2>Programming languages, and the programs I work with.</h2>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="48" alt="Python logo" />
 </dev>
 
 
