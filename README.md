@@ -11,11 +11,11 @@
   <h2>Programming languages, and the programs I work with.</h2>
 
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=py">
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" style="margin: 0 30px;">
+    <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo" style="margin: 0 30px;">
   </a>
 
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=cs">
-    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" style="margin: 0 30px;">
+    <img src="https://skillicons.dev/icons?i=cs" height="100" alt="csharp logo" style="margin: 0 30px;">
   </a>
 
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=vscode">
