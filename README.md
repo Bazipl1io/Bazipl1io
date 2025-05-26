@@ -40,6 +40,6 @@ I am fond of programming, mostly writing in Python - it's my main language. I al
   </a>
 </div>
 
-<div>
-    <img src="https://i.gifer.com/758R.gif" width="200" alt="i am">
+<div align="center">
+    <img src="https://i.gifer.com/758R.gif" width="200" alt="HK">
 </div>
