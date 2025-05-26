@@ -1,10 +1,10 @@
-<div>
+<div align="center">
     <img src="https://media.stickerswiki.app/foxflea/38698.512.webp" width="200" alt="i am">
       <h1>Hi, I'm Bazipl1 and I'm Furry Fox.</h1>
 </div>
 
 <div align="center">
-    <img src="https://media.stickerswiki.app/foxflea/38709.512.webp" width="40" alt="i am">
+    <img src="https://media.stickerswiki.app/foxflea/38709.512.webp" width="200" alt="i am">
     <h2>Programming languages, and the programs I work with.</h2>
 
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=vscode">
