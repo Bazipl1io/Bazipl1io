@@ -10,15 +10,15 @@
 <div align="center">
   <h2>Programming languages, and the programs I work with.</h2>
 
+  <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=vscode">
+    <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo" style="margin: 0 30px;">
+  </a>
+
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=py">
     <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo" style="margin: 0 30px;">
   </a>
 
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=cs">
     <img src="https://skillicons.dev/icons?i=cs" height="100" alt="csharp logo" style="margin: 0 30px;">
-  </a>
-
-  <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=vscode">
-    <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo" style="margin: 0 30px;">
   </a>
 </div>
