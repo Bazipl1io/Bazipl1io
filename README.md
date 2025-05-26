@@ -40,6 +40,4 @@ I am fond of programming, mostly writing in Python - it's my main language. I al
   </a>
 </div>
 
-<div align="center">
-    <img src="https://i.gifer.com/758R.gif" height="100" alt="csharp logo" style="margin: 0 30px;">
-</div>
+![](https://i.gifer.com/758R.gif)
