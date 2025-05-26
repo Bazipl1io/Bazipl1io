@@ -5,6 +5,8 @@
 <dev>
   <h2>Programming languages, and the programs I work with.</h2>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="48" alt="Python logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="48" alt="CS logo" />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="48" alt="Python logo" />
 </dev>
 
 
