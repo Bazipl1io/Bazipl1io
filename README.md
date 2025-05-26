@@ -41,5 +41,5 @@ I am fond of programming, mostly writing in Python - it's my main language. I al
 </div>
 
 <div align="center">
-    <img src="https://i.gifer.com/758R.gif" width="200" alt="HK">
+    <iframe src="https://gifer.com/embed/758R" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 </div>
