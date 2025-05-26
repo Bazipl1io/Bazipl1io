@@ -10,5 +10,11 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/256/5105/5105667.png" height="40" alt="python logo" data-canonical-src="https://skillicons.dev/icons?i=py" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
 </dev>
+<h3 dir="auto"></h3>
+<dev align="centre" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
+</dev>
+
 
 
