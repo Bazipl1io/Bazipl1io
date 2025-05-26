@@ -40,4 +40,6 @@ I am fond of programming, mostly writing in Python - it's my main language. I al
   </a>
 </div>
 
-![](https://i.gifer.com/758R.gif)
+<div>
+    <img src="https://media1.tenor.com/m/aW1paWTKpZMAAAAd/%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D1%8B-hackers.gif" height="100" alt="HK" style="margin: 0 30px;">
+</div>
