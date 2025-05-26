@@ -15,6 +15,6 @@
   </a>
 
   <a target="_blank" rel="noopener noreferrer" href="https://skillicons.dev/icons?i=vscode">
-    <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo" style="margin: 2 30px;">
+    <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="vscode logo" style="margin: 0 30px;">
   </a>
 </div>
