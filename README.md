@@ -1,4 +1,4 @@
-<div>
+<body>
     <div align="center">
         <img src="https://media.stickerswiki.app/foxflea/38698.512.webp" width="200" alt="i am">
         <h1>Hi, I'm Bazipl1.</h1><h3>
@@ -44,4 +44,4 @@
     <div>
         <img src="https://media1.tenor.com/m/aW1paWTKpZMAAAAd/%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D1%8B-hackers.gif" height="100" alt="HK" style="margin: 0 30px;">
     </div>
-</div>
+</body>
