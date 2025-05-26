@@ -45,5 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="https://i.gifer.com/758R.gif" width="400" alt="fun gif">
+  <img src="https://i.pinimg.com/originals/28/d9/a5/28d9a5107af5d4c4da117c05b4393b83.gif" width="400" alt="fun gif">
 </div>
