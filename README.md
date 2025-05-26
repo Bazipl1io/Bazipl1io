@@ -33,6 +33,6 @@
       </a>
     </div>
     <div>
-        <img src="https://media1.tenor.com/m/aW1paWTKpZMAAAAd/%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D1%8B-hackers.gif" height="100" alt="HK" style="margin: 0 30px;">
+        <img src="https://media.giphy.com/media/TnL9FjHPUrbu6phMRe/giphy.gif?cid=ecf05e47ot015z675qf7na4fm34soukcmmg29cp2lsnzenz7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" />
     </div>
 </body>
