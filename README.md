@@ -6,6 +6,7 @@ I'll tell you a little bit about myself. I am a furry from Ukraine. I study at t
 I am fond of programming, mostly writing in Python - it's my main language. I also like to play video games, especially Minecraft (including with mods), Scrap Mechanic, CarX Drift Racing Online. 
     </h3>
 </div>
+
 <div align="center">
     <img src="https://media.stickerswiki.app/foxflea/38709.512.webp" width="200" alt="i am">
     <h2>Programming languages, and the programs I work with.</h2>
@@ -37,4 +38,8 @@ I am fond of programming, mostly writing in Python - it's my main language. I al
   <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/60px-CSS3_logo_and_wordmark.svg.png">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/60px-CSS3_logo_and_wordmark.svg.png" height="100" alt="vscode logo" style="margin: 0 30px;">
   </a>
+</div>
+
+<div>
+    <img src="https://i.gifer.com/758R.gif" width="200" alt="i am">
 </div>
