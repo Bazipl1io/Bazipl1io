@@ -2,7 +2,9 @@
     <img src="https://media.stickerswiki.app/foxflea/38698.512.webp" width="200" alt="i am">
     <h1>Hi, I'm Bazipl1.</h1>
     <p>
-        
+       Hey, everybody!
+I'll tell you a little bit about myself. I am a furry from Ukraine. I study at the specialty “Cybersecurity and information protection”.
+I am fond of programming, mostly writing in Python - it's my main language. I also like to play video games, especially Minecraft (including with mods), Scrap Mechanic, CarX Drift Racing Online. 
     </p>
 </div>
 
