@@ -45,5 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TnL9FjHPUrbu6phMRe/giphy.gif" width="400" alt="fun gif">
+  <img src="https://tenor.com/bmsu2.gif" width="400" alt="fun gif">
 </div>
