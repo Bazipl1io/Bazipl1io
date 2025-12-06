@@ -4,7 +4,7 @@
 </p>
 
 
-<strong style="font-size: 2em;">Hello everyone!</strong><br><br>
+<strong style="font-size: 4em;">Hello everyone!</strong><br><br>
 
 My name is Nazar, but online I go by <strong>Bazipl1</strong>.<br>
 I’m learning <strong>backend</strong>, but I also have basic knowledge of <strong>frontend</strong>, so you could say I’m a <strong>full-stack developer</strong>.<br>
