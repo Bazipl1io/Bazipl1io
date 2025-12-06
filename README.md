@@ -1,1 +1,1 @@
-<img src="хакеры-hackers.gif"
+<img src="хакеры-hackers.gif">
