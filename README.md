@@ -1,1 +1,1 @@
-<img src="https://tenor.com/bmsu2.gif" width="300">
+<img src="https://i.gifer.com/758R.gif" width="300">
