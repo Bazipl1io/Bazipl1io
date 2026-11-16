@@ -12,6 +12,8 @@
 
 **Programming Languages**
 
+---
+
 <img src="Assets/Python.png" width="60">
 <img src="Assets/HTML5.png" width="60">
 
