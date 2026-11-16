@@ -23,6 +23,8 @@
 
 **OS**
 
+---
+
 <img src="Assets/Linux.png" width="60">
 <img src="Assets/Windows%2011.png" width="60">
 
