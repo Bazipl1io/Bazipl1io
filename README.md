@@ -4,7 +4,7 @@
 
 # Hello 👋
 
-<img src="Assets/fox_mini.webp" width="150">
+<img src="Assets/fox_mimi.webp" width="150">
 
 ## My skills
 
